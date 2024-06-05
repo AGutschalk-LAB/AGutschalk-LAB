@@ -11,7 +11,7 @@ Our lab is led by a group of dedicated researchers passionate about neuroscience
 - **Meng Liang** - PhD Candidate
 
 ## Publications
-Our work has been featured in numerous high-impact journals, reflecting our commitment to advancing the field of auditory cognition. [Check out our website](https://www.klinikum.uni-heidelberg.de/neurologische-klinik/neurologie-und-poliklinik/forschung/systems-neuroscience/auditory-cognition-lab#publications) to stay updated with our discoveries.
+Our work has been featured in numerous high-impact journals, reflecting our commitment to advancing the field of auditory cognition. **[Check out our website](https://www.klinikum.uni-heidelberg.de/neurologische-klinik/neurologie-und-poliklinik/forschung/systems-neuroscience/auditory-cognition-lab#publications)** to stay updated with our discoveries.
 
 ---
 
