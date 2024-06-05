@@ -15,7 +15,7 @@ Our research primarily focuses on:
 ## Meet the Team
 Our lab is led by a group of dedicated researchers passionate about auditory neuroscience:
 - **Prof. Dr. med. Alexander Gutschalk** - Principal Investigator
-- **Laura Dall** - PhD Candidate
+- **[Laura Dall](https://github.com/lldoll)** - PhD Candidate
 - **[Diptyajit Das](https://github.com/dasdiptyajit)** - PhD Candidate
 - **Meng Liang** - PhD Candidate
 
