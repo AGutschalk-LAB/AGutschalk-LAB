@@ -12,7 +12,7 @@ Our research primarily focuses on:
 
 ## Meet the Team
 Our lab is led by a group of dedicated researchers passionate about neuroscience:
-- **Prof. Dr. med. Alexander Gutschalk** - Principal Investigator
+- **[Prof. Dr. med. Alexander Gutschalk](https://orcid.org/0000-0002-2523-8846)** - Principal Investigator
 - **[Laura Dall](https://github.com/lldoll)** - PhD Candidate
 - **[Diptyajit Das](https://github.com/dasdiptyajit)** - PhD Candidate
 - **Meng Liang** - PhD Candidate
