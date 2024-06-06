@@ -1,4 +1,4 @@
-# Welcome to the Auditory Cognition Lab
+## Welcome to the Auditory Cognition Lab
 
 ## About Us
 The Auditory Cognition Lab, part of the Systems Neuroscience division at the Neurological Clinic of Heidelberg University, is dedicated to unraveling the complexities of how we perceive and process auditory information. Our interdisciplinary team aims to identify neural correlates of auditory perception and cognition by combining different functional imaging techniques (EEG, MEG, and fMRI), studies in patients with cortical lesions after stroke, and most recently, non-invasive brain stimulation techniques.
